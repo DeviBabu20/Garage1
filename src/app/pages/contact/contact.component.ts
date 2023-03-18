@@ -30,4 +30,5 @@ export class ContactComponent {
     this.email='';
     this.feedback='';
   }
+
 }
