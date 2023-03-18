@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "garage-be01c": {
+      "hosting": {
+        "auto": [
+          "garage-be01c"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "garage-be01c"
+  }
+}
